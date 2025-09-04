@@ -201,10 +201,10 @@
           "type": "row",
           "settings": {
             "caption": "SwissRefine steht für",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "heading": "Kultur & Werterhalt",
+            "text": "<p>Wir sehen das Automobil als Kulturgut.<br/>SwissRefine Produkte tragen dazu bei, Fahrzeuge langfristig im besten Zustand zu bewahren und ihren Wert zu erhalten – für dich und für kommende Generationen.</p>",
+            "button_label": "Über uns",
+            "button_link": "shopify://pages/uber-uns"
           }
         }
       },

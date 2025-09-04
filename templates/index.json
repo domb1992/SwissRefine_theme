@@ -87,47 +87,43 @@
         "padding_bottom": 0
       }
     },
-    "rich_text_9ExPP9": {
-      "type": "rich-text",
+    "image_with_text_63qAR4": {
+      "type": "image-with-text",
       "blocks": {
-        "heading_EY3A3m": {
+        "heading_xU8khC": {
           "type": "heading",
           "settings": {
             "heading": "Unsere Mission: Sie und Ihr Auto zum Strahlen bringen",
             "heading_size": "h1"
           }
         },
-        "text_fbcTCT": {
+        "text_Rgb6DJ": {
           "type": "text",
           "settings": {
-            "text": "<p>Bei SwissRefine ist es unsere Herzensangelegenheit, in der Fahrzeugpflege-Branche für kompromisslose Qualität und erstklassigen Service zu stehen.<br/><br/>Stell dir vor, dein Fahrzeug würde jederzeit in perfektem Zustand glänzen – so sehr, dass andere sich fragen, ob du gerade ein neues Auto gekauft hast.<br/><br/>Wir alle haben im Alltag wenig Zeit, und genau deshalb entwickeln wir Produkte, die mit minimalem Aufwand maximale Ergebnisse liefern.<br/><br/>SwissRefine setzt auf die hochwertigsten Rohstoffe und Komponenten, damit sowohl qualitätsbewusste Autoliebhaber als auch professionelle Fahrzeugaufbereiter höchste Ansprüche erfüllt bekommen.<br/><br/>Unsere Produkte sind ein Must-have für alle, die ihr Auto nicht nur sauber, sondern makellos halten wollen – und gleichzeitig den Wert ihres Fahrzeugs sichern oder sogar steigern.<br/><br/>Unser Ziel: <strong>Pflege, die Freude macht. Produkte, die dein Auto lieben lassen.</strong></p>"
-          }
-        },
-        "button_iAhbj4": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>Bei SwissRefine ist es unsere Herzensangelegenheit, in der Fahrzeugpflege-Branche für kompromisslose Qualität und erstklassigen Service zu stehen.<br/><br/>Stell dir vor, dein Fahrzeug würde jederzeit in perfektem Zustand glänzen – so sehr, dass andere sich fragen, ob du gerade ein neues Auto gekauft hast.<br/><br/>Wir alle haben im Alltag wenig Zeit, und genau deshalb entwickeln wir Produkte, die mit minimalem Aufwand maximale Ergebnisse liefern.<br/><br/>SwissRefine setzt auf die hochwertigsten Rohstoffe und Komponenten, damit sowohl qualitätsbewusste Autoliebhaber als auch professionelle Fahrzeugaufbereiter höchste Ansprüche erfüllt bekommen.<br/><br/>Unsere Produkte sind ein Must-have für alle, die ihr Auto nicht nur sauber, sondern makellos halten wollen – und gleichzeitig den Wert ihres Fahrzeugs sichern oder sogar steigern.<br/><br/>Unser Ziel: <strong>Pflege, die Freude macht. Produkte, die dein Auto lieben lassen.</strong></p>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "heading_EY3A3m",
-        "text_fbcTCT",
-        "button_iAhbj4"
+        "heading_xU8khC",
+        "text_Rgb6DJ"
       ],
-      "name": "t:sections.rich-text.presets.name",
+      "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "image": "shopify://shop_images/2149193565.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
         "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "featured_collection": {
@@ -268,7 +264,7 @@
   "order": [
     "image_banner",
     "rich_text",
-    "rich_text_9ExPP9",
+    "image_with_text_63qAR4",
     "featured_collection",
     "collage",
     "video",

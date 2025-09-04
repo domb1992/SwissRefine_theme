@@ -181,10 +181,10 @@
           "type": "row",
           "settings": {
             "caption": "SwissRefine steht für",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "heading": "Beste Rohstoffe & Komponenten",
+            "text": "<p>Von den verwendeten Inhaltsstoffen bis hin zur Verpackung achten wir auf höchste Standards.<br/>So entsteht ein Produkt, das nicht nur überzeugt, sondern Maßstäbe in Qualität und Nachhaltigkeit setzt.</p>",
+            "button_label": "Premium Auto Shampoo",
+            "button_link": "shopify://products/hybrid-v7-shampoo"
           }
         }
       },

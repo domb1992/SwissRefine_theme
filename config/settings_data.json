@@ -143,6 +143,7 @@
           "settings": {
             "color_scheme": "scheme-1"
           }
+          
         },
         "main-password-footer": {
           "type": "main-password-footer",
@@ -151,6 +152,7 @@
           }
         }
       }
+      
     }
   }
 }

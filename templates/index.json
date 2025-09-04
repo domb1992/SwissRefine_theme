@@ -186,12 +186,34 @@
             "button_label": "Premium Auto Shampoo",
             "button_link": "shopify://products/hybrid-v7-shampoo"
           }
+        },
+        "row_XXmAfr": {
+          "type": "row",
+          "settings": {
+            "caption": "SwissRefine steht für",
+            "heading": "Kompromisslose Zufriedenheit",
+            "text": "<p>Unser Anspruch endet nicht beim Produkt.<br/>Von der Bestellung bis zur Anwendung soll alles Freude machen – deine Zufriedenheit steht bei uns an erster Stelle.</p>",
+            "button_label": "Premium Trockentuch",
+            "button_link": "shopify://products/premium-trockentuch-90x60cm-1200gsm"
+          }
+        },
+        "row_Tx9f6k": {
+          "type": "row",
+          "settings": {
+            "caption": "SwissRefine steht für",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "row_78yt9E",
         "row_Atrcdc",
-        "row_MwYBYi"
+        "row_MwYBYi",
+        "row_XXmAfr",
+        "row_Tx9f6k"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {

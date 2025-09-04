@@ -131,9 +131,9 @@
       "settings": {
         "collection": "all",
         "products_to_show": 8,
-        "title": "Featured products",
+        "title": "Fahrzeugpflege Bestseller Produkte",
         "heading_size": "h2",
-        "description": "",
+        "description": "<p>Die beliebtesten SwissRefine Produkte für Glanz, Schutz & Wertsteigerung.</p>",
         "show_description": false,
         "description_style": "body",
         "columns_desktop": 4,

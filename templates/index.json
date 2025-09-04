@@ -154,108 +154,58 @@
         "padding_bottom": 36
       }
     },
-    "collage": {
-      "type": "collage",
+    "multirow_DE468W": {
+      "type": "multirow",
       "blocks": {
-        "collection-0": {
-          "type": "collection",
+        "row_78yt9E": {
+          "type": "row",
           "settings": {
-            "collection": ""
+            "caption": "SwissRefine steht für",
+            "heading": "Quality First",
+            "text": "<p>Entgegen der Masse setzen wir bei SwissRefine ausschließlich auf hochwertige Produkte für die Reinigung und Pflege von Fahrzeugen aller Art.<br/>Unsere kompromisslose Qualitätsstrategie sorgt nicht nur für perfekte Ergebnisse, sondern schont gleichzeitig Umwelt und Ressourcen.</p>",
+            "button_label": "Premium Trockentuch",
+            "button_link": "shopify://products/premium-trockentuch-90x60cm-1200gsm"
           }
         },
-        "product": {
-          "type": "product",
+        "row_Atrcdc": {
+          "type": "row",
           "settings": {
-            "product": "",
-            "second_image": false
+            "caption": "SwissRefine steht für",
+            "heading": "Nähe zum Kunden",
+            "text": "<p>Als junges Schweizer Unternehmen legen wir größten Wert auf persönliche Beratung und ehrlichen Austausch.<br/>Unsere Erfahrung ermöglicht es uns, für jede Herausforderung in der Autopflege eine Lösung zu bieten.</p>",
+            "button_label": "Kontaktformular",
+            "button_link": "shopify://pages/contact"
           }
         },
-        "collection-1": {
-          "type": "collection",
+        "row_MwYBYi": {
+          "type": "row",
           "settings": {
-            "collection": ""
+            "caption": "SwissRefine steht für",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
+        "row_78yt9E",
+        "row_Atrcdc",
+        "row_MwYBYi"
       ],
+      "name": "t:sections.multirow.presets.name",
       "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "",
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "image_layout": "alternate-left",
         "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-1",
+        "row_color_scheme": "scheme-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -266,8 +216,6 @@
     "rich_text",
     "image_with_text_63qAR4",
     "featured_collection",
-    "collage",
-    "video",
-    "multicolumn"
+    "multirow_DE468W"
   ]
 }

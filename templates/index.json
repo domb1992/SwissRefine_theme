@@ -236,6 +236,60 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_bacN3w": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_CtEg7X": {
+          "type": "column",
+          "settings": {
+            "title": "Autoshampoo",
+            "text": "<p>Autoshampoo pH-neutral – SwissRefine Fahrzeugpflege<br/>Fahrzeugpflege von höchster Qualität<br/>Reinigen, Pflegen, Polieren, Versiegeln – dafür steht SwissRefine.<br/>Unsere Leidenschaft gilt kompromissloser Qualität und Produkten, die Autopflege zu einem echten Erlebnis machen.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_XUGxWB": {
+          "type": "column",
+          "settings": {
+            "title": "Premium Trockentuch",
+            "text": "<p>Premium Trockentuch – SwissRefine Fahrzeugpflege<br/>Nachhaltigkeit im Fokus<br/>Mehrweg-Komponenten und langlebige Materialien sorgen für bessere Performance und eine nachhaltige Nutzung.<br/>So profitierst nicht nur du, sondern auch die Umwelt.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EKxdWV": {
+          "type": "column",
+          "settings": {
+            "title": "Beste Rohstoffe & Komponenten",
+            "text": "<p>SwissRefine steht für kompromisslose Qualität<br/>Wir gehen niemals Kompromisse bei den Inhaltsstoffen oder Materialien ein.<br/>Unsere Produkte kosten vielleicht etwas mehr – aber sie zahlen sich aus, weil sie höchste Performance, Schutz und Langlebigkeit garantieren.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_CtEg7X",
+        "column_XUGxWB",
+        "column_EKxdWV"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "Über uns",
+        "button_link": "shopify://pages/uber-uns",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -243,6 +297,7 @@
     "rich_text",
     "image_with_text_63qAR4",
     "featured_collection",
-    "multirow_DE468W"
+    "multirow_DE468W",
+    "multicolumn_bacN3w"
   ]
 }
